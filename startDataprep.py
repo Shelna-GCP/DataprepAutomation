@@ -184,4 +184,4 @@ def start_dataprep_process():
         publicationid = dataprep_publication_create(outputObjectId)
 
 
-start_dataprep_process()
+
